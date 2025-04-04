@@ -1,5 +1,5 @@
 #include <iostream>
-#include "calcualator.h"
+#include "calculator.h"
 #include <cstdlib>
 #include <ctime>
 using namespace std;
