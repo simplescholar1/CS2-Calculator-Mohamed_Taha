@@ -2,7 +2,7 @@ double add(double  a, double b );
 double sub(double a,double  b);
 double mult(double a,double b );
 double division (double a, double  b);
-int fact();
+int fact(a);
  int GCD(int a, int b);
  int LCM(int a,int b);
  int GCD_Multiple();
