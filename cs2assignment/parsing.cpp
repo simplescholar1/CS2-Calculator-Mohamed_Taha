@@ -6,6 +6,7 @@
 #include <map>
 #include "calculator.h"
 #include "parsing.h"
+#include <cstring>
 using namespace std;
 
 // for tokenization
