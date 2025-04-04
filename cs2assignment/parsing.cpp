@@ -5,7 +5,7 @@
 #include <cctype>
 #include <map>
 #include "calculator.h"
-
+#include "parsing.h"
 using namespace std;
 
 // for tokenization
