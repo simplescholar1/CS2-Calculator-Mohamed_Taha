@@ -2,6 +2,8 @@
 #include <cstdlib>
 #include <ctime>
 #include "calculator.h"
+#include "parsing.h"
+#include <cstring>
 using namespace std;
 
 
